@@ -1,5 +1,7 @@
-def add(a,b):
-  """
-  Add two numbers
-  """
-  return a+b
+def add(x, y):
+    """This is an add function"""
+
+    return x + y
+
+
+print(add(1, 1))
